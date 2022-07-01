@@ -58,3 +58,4 @@ The module board will house a rotating knob that can change the different camera
 7. The board will also have Pogo connectors for attaching directly to the Controller board as specified in **General Description**.
 8. It is also recommended to provide bridges between all the power inputs and outputs for prototype phase as well as programming connections for ESP32.
 9. Test points for all communication lines such as UART / I2C / SPI / etc should also be provided as well as test points for voltage signals.
+10. The following link can be used as a reference **https://github.com/scottbez1/smartknob**. We have to make something very similar to this.
