@@ -51,8 +51,8 @@ The module board will house a rotating knob that can change the different camera
 #### Key Points for design scheme
 1. The board will be powered using a single LiPo/LiIon cell.
 2. The board will have the charge circuitry present on it.
-3. The max voltage may be 12V and for this, the battery voltage will be boosted by a circuitry.
-4. The major components on this will be a BLDC motor of 12V and an encoder cictuitry and corresponding driver circuitry
+3. The max voltage is 24V and for this, the battery voltage will be boosted by a circuitry.
+4. The major components on this will be a BLDC motor of 24V and an encoder cictuitry and corresponding driver circuitry
 5. There will be 1 x ESP32 present for hardware interface as well as communication on the board.
 6. We may also need to give some LEDs on the board for a nice look but the amount of LEDs will be specified later
 7. The board will also have Pogo connectors for attaching directly to the Controller board as specified in **General Description**.
