@@ -98,23 +98,6 @@ GenerateClassCluster=0
 DocumentUniqueId=LELTLTKL
 
 [Document4]
-DocumentPath=Connector_Section.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NCAKWYWI
-
-[Document5]
 DocumentPath=Current_Sense_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,7 +114,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BIOTCYDM
 
-[Document6]
+[Document5]
 DocumentPath=Step..._Breakout.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -148,7 +131,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XAJYCQFV
 
-[Document7]
+[Document6]
 DocumentPath=MOSFET_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -165,7 +148,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XZPAZSQM
 
-[Document8]
+[Document7]
 DocumentPath=MOSFET_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -182,7 +165,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=Current_Sense_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -199,24 +182,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
-DocumentPath=Connector_Section.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document11]
+[Document9]
 DocumentPath=TMC6100_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -233,7 +199,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document10]
 DocumentPath=TMC4671_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -250,7 +216,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document11]
 DocumentPath=Buffer_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -267,8 +233,42 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RXGWEBVA
 
-[Document14]
+[Document12]
 DocumentPath=Buffer_Section.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document13]
+DocumentPath=Connector_Section.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NCAKWYWI
+
+[Document14]
+DocumentPath=Connector_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

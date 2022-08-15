@@ -1,0 +1,104 @@
+Added Component: Designator=P7(HDR2X5)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.mouser.com/ds/2/154/bus-12-050-356030.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/154/bus-12-050-356030.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://portal.fciconnect.com/Comergent/fci/drawing/67996.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://portal.fciconnect.com/Comergent/fci/drawing/67996.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://www.alliedelec.com/m/d/738c41368b909dba4b47243c40762f88.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.alliedelec.com/m/d/738c41368b909dba4b47243c40762f88.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/67996.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/67996.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "http://portal.fciconnect.com/Comergent/fci/drawing/67996.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "http://portal.fciconnect.com/Comergent/fci/drawing/67996.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://www.farnell.com/datasheets/1748781.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://www.farnell.com/datasheets/1748781.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.23inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Post Length"; Value = "3.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "4.83mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "5GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "12.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "67997-410HLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "1.5kV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.28, 10=0.266, 100=0.1864, 500=0.15982, 1000=0.13318, 5000=0.11415, 10000=0.10654 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "7926"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "609-3243-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "1.5kV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=P7-1
+Added Pin To Net: NetName=\C\S\_\D\B\G\_\S\P\I\ Pin=P7-3
+Added Pin To Net: NetName=TRG_ Pin=P7-4
+Added Pin To Net: NetName=DBG_SPI_SCK Pin=P7-5
+Added Pin To Net: NetName=GND Pin=P7-6
+Added Pin To Net: NetName=DBG_SPI_MOSI Pin=P7-7
+Added Pin To Net: NetName=GND Pin=P7-8
+Added Pin To Net: NetName=DBG_SPI_MISO Pin=P7-9
+Added Pin To Net: NetName=GND Pin=P7-10
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q1-4
+Add Pin To Net: Unknown Pin: Pin Q1-5
+Add Pin To Net: Unknown Pin: Pin Q1-6
+Add Pin To Net: Unknown Pin: Pin Q1-7
+Add Pin To Net: Unknown Pin: Pin Q1-8
+Add Pin To Net: Unknown Pin: Pin Q1-9
+Add Pin To Net: Unknown Pin: Pin Q1-10
+Add Pin To Net: Unknown Pin: Pin Q1-11
+Add Pin To Net: Unknown Pin: Pin Q1-12
+Add Pin To Net: Unknown Pin: Pin Q1-13
+Add Pin To Net: Unknown Pin: Pin Q1-14
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Add Pin To Net: Unknown Pin: Pin Q2-4
+Add Pin To Net: Unknown Pin: Pin Q2-5
+Add Pin To Net: Unknown Pin: Pin Q2-6
+Add Pin To Net: Unknown Pin: Pin Q2-7
+Add Pin To Net: Unknown Pin: Pin Q2-8
+Add Pin To Net: Unknown Pin: Pin Q2-9
+Add Pin To Net: Unknown Pin: Pin Q2-10
+Add Pin To Net: Unknown Pin: Pin Q2-11
+Add Pin To Net: Unknown Pin: Pin Q2-12
+Add Pin To Net: Unknown Pin: Pin Q2-13
+Add Pin To Net: Unknown Pin: Pin Q2-14
+Add Pin To Net: Unknown Pin: Pin Q3-1
+Add Pin To Net: Unknown Pin: Pin Q3-2
+Add Pin To Net: Unknown Pin: Pin Q3-3
+Add Pin To Net: Unknown Pin: Pin Q3-4
+Add Pin To Net: Unknown Pin: Pin Q3-5
+Add Pin To Net: Unknown Pin: Pin Q3-6
+Add Pin To Net: Unknown Pin: Pin Q3-7
+Add Pin To Net: Unknown Pin: Pin Q3-8
+Add Pin To Net: Unknown Pin: Pin Q3-9
+Add Pin To Net: Unknown Pin: Pin Q3-10
+Add Pin To Net: Unknown Pin: Pin Q3-11
+Add Pin To Net: Unknown Pin: Pin Q3-12
+Add Pin To Net: Unknown Pin: Pin Q3-13
+Add Pin To Net: Unknown Pin: Pin Q3-14
+Added Member To Class: ClassName=U_Connector_Section Member=Component P7 67997-410HLF
+Add Class Member: Failed to add class member : Component Q1 FDMD8260L
+Add Class Member: Failed to add class member : Component Q2 FDMD8260L
+Add Class Member: Failed to add class member : Component Q3 FDMD8260L
