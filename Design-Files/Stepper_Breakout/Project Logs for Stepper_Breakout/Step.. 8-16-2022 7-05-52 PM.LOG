@@ -1,0 +1,121 @@
+Added Component: Designator=Q1(12-Power3.3x5)
+Add component (AddParameter): Name = "Category"; Value = "MOSFETs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.fairchildsemi.com/datasheets/FD/FDMD8260L.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.fairchildsemi.com/datasheets/FD/FDMD8260L.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Configuration"; Value = "Dual"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FET Type"; Value = "2 N-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance"; Value = "5.245nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor / Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FDMD8260L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.19000, 10=2.87000, 25=2.72000, 50=2.54000, 100=2.35000, 250=2.18000, 500=2.01000, 1000=1.76000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On Max"; Value = "5.8mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "54AH8638"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.0823188g"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(12-Power3.3x5)
+Add component (AddParameter): Name = "Category"; Value = "MOSFETs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.fairchildsemi.com/datasheets/FD/FDMD8260L.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.fairchildsemi.com/datasheets/FD/FDMD8260L.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Configuration"; Value = "Dual"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FET Type"; Value = "2 N-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance"; Value = "5.245nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor / Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FDMD8260L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.19000, 10=2.87000, 25=2.72000, 50=2.54000, 100=2.35000, 250=2.18000, 500=2.01000, 1000=1.76000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On Max"; Value = "5.8mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "54AH8638"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.0823188g"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(12-Power3.3x5)
+Add component (AddParameter): Name = "Category"; Value = "MOSFETs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.fairchildsemi.com/datasheets/FD/FDMD8260L.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.fairchildsemi.com/datasheets/FD/FDMD8260L.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Configuration"; Value = "Dual"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FET Type"; Value = "2 N-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance"; Value = "5.245nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor / Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FDMD8260L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.19000, 10=2.87000, 25=2.72000, 50=2.54000, 100=2.35000, 250=2.18000, 500=2.01000, 1000=1.76000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On Max"; Value = "5.8mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "54AH8638"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.0823188g"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+VM Pin=Q1-1
+Added Pin To Net: NetName=+VM Pin=Q1-1
+Added Pin To Net: NetName=+VM Pin=Q1-2
+Added Pin To Net: NetName=+VM Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1-4
+Added Pin To Net: NetName=GND Pin=Q1-5
+Added Pin To Net: NetName=GND Pin=Q1-6
+Added Pin To Net: NetName=BMU_ Pin=Q1-7
+Added Pin To Net: NetName=BMU_ Pin=Q1-8
+Added Pin To Net: NetName=BMU_ Pin=Q1-9
+Added Pin To Net: NetName=BMU_ Pin=Q1-10
+Added Pin To Net: NetName=BMU_ Pin=Q1-11
+Added Pin To Net: NetName=NetQ1_12 Pin=Q1-12
+Added Pin To Net: NetName=+VM Pin=Q1-13
+Added Pin To Net: NetName=GND Pin=Q1-14
+Added Pin To Net: NetName=+VM Pin=Q2-1
+Added Pin To Net: NetName=+VM Pin=Q2-1
+Added Pin To Net: NetName=+VM Pin=Q2-2
+Added Pin To Net: NetName=+VM Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_4 Pin=Q2-4
+Added Pin To Net: NetName=GND Pin=Q2-5
+Added Pin To Net: NetName=GND Pin=Q2-6
+Added Pin To Net: NetName=BMV_ Pin=Q2-7
+Added Pin To Net: NetName=BMV_ Pin=Q2-8
+Added Pin To Net: NetName=BMV_ Pin=Q2-9
+Added Pin To Net: NetName=BMV_ Pin=Q2-10
+Added Pin To Net: NetName=BMV_ Pin=Q2-11
+Added Pin To Net: NetName=NetQ2_12 Pin=Q2-12
+Added Pin To Net: NetName=+VM Pin=Q2-13
+Added Pin To Net: NetName=GND Pin=Q2-14
+Added Pin To Net: NetName=+VM Pin=Q3-1
+Added Pin To Net: NetName=+VM Pin=Q3-1
+Added Pin To Net: NetName=+VM Pin=Q3-2
+Added Pin To Net: NetName=+VM Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_4 Pin=Q3-4
+Added Pin To Net: NetName=GND Pin=Q3-5
+Added Pin To Net: NetName=GND Pin=Q3-6
+Added Pin To Net: NetName=BMW_ Pin=Q3-7
+Added Pin To Net: NetName=BMW_ Pin=Q3-8
+Added Pin To Net: NetName=BMW_ Pin=Q3-9
+Added Pin To Net: NetName=BMW_ Pin=Q3-10
+Added Pin To Net: NetName=BMW_ Pin=Q3-11
+Added Pin To Net: NetName=NetQ3_12 Pin=Q3-12
+Added Pin To Net: NetName=+VM Pin=Q3-13
+Added Pin To Net: NetName=GND Pin=Q3-14
+Added Member To Class: ClassName=U_Connector_Section Member=Component P7 67997-410HLF
+Added Member To Class: ClassName=U_MOSFET_Section Member=Component Q1 FDMD8260L
+Added Member To Class: ClassName=U_MOSFET_Section Member=Component Q2 FDMD8260L
+Added Member To Class: ClassName=U_MOSFET_Section Member=Component Q3 FDMD8260L
