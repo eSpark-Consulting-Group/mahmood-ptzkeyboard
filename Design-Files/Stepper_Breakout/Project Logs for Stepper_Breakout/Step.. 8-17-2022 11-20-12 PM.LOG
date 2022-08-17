@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=U_Connector_Section Member=P7
+Change Component Designator: OldDesignator=P1 NewDesignator=P4
+Change Component Designator: OldDesignator=P3 NewDesignator=P1
+Change Component Designator: OldDesignator=P5 NewDesignator=P2
+Change Component Designator: OldDesignator=P7 NewDesignator=P3
+Change Net Name : Old Net Name=NetP3_3 New Net Name=NetP1_3
+Change Net Name : Old Net Name=NetP3_4 New Net Name=NetP1_4
+Change Net Name : Old Net Name=NetP3_5 New Net Name=NetP1_5
+Change Net Name : Old Net Name=NetP3_6 New Net Name=NetP1_6
+Change Net Name : Old Net Name=NetP3_7 New Net Name=NetP1_7
+Added Member To Class: ClassName=U_Connector_Section Member=Component P4 61300411121

@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=P2 NewDesignator=P8
+Change Component Designator: OldDesignator=P7 NewDesignator=P6
+Added Member To Class: ClassName=U_Connector_Section Member=Component P6 61300411121
+Added Member To Class: ClassName=U_Connector_Section Member=Component P8 61300511121
