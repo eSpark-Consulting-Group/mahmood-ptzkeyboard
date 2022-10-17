@@ -1,1 +1,4 @@
-Record=TopLevelDocument|FileName=Sheet2.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Control_Indicator.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Control_Indicator.SchDoc|FileName=DRIVER.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Control_Indicator.SchDoc|FileName=Encoder.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Control_Indicator.SchDoc|FileName=Power Supply.SchDoc|SheetNumber=3

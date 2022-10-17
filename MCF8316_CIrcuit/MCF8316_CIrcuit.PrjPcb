@@ -64,6 +64,23 @@ GenerateClassCluster=0
 DocumentUniqueId=UNLFEFMV
 
 [Document2]
+DocumentPath=Encoder.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZYNBAWKG
+
+[Document3]
 DocumentPath=DRIVER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -80,7 +97,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDIJLEEG
 
-[Document3]
+[Document4]
 DocumentPath=Power Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -97,7 +114,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QIMHMDNE
 
-[Document4]
+[Document5]
 DocumentPath=Control_Indicator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
