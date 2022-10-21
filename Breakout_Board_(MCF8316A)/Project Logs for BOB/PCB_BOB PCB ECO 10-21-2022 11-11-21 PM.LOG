@@ -1,0 +1,26 @@
+Add Component: Footprint Not Found LED 0402
+Add Component: Footprint Not Found WJ301V-5.0-3P
+Add Component: Footprint Not Found WJ301V-5.0-3P
+Add Component: Footprint Not Found Res0402
+Add Component: Footprint Not Found SOP-8
+Add Pin To Net: Unknown Pin: Pin LED1-1
+Add Pin To Net: Unknown Pin: Pin LED1-2
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P2-2
+Add Pin To Net: Unknown Pin: Pin P2-3
+Add Pin To Net: Unknown Pin: Pin P3-1
+Add Pin To Net: Unknown Pin: Pin P3-2
+Add Pin To Net: Unknown Pin: Pin P3-3
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Class Member: Failed to add class member : Component LED1 Red
+Add Class Member: Failed to add class member : Component P2 WJ301V-5.0-3P
+Add Class Member: Failed to add class member : Component P3 WJ301V-5.0-3P
+Add Class Member: Failed to add class member : Component R6 1K
+Add Class Member: Failed to add class member : Component U1 MT6701
