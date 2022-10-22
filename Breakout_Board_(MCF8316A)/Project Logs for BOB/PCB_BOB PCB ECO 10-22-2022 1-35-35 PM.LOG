@@ -1,0 +1,13 @@
+Added Component: Designator=U1(SOP-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Position-Sensor_Magn-Tek-MT6701CT-STD-R_C3003196.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Magn Tek"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MT6701CT-STD-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOP-8"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3_ENC Pin=U1-1
+Added Pin To Net: NetName=3V3_ENC Pin=U1-2
+Added Pin To Net: NetName=GND_ENC Pin=U1-4
+Added Pin To Net: NetName=SDA_ENC Pin=U1-6
+Added Pin To Net: NetName=SCL_ENC Pin=U1-7
+Added Pin To Net: NetName=CSN_ENC Pin=U1-8
+Added Member To Class: ClassName=Encoder Member=Component U1 MT6701CT-STD-R
