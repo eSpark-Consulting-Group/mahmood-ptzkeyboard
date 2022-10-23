@@ -1,7 +1,7 @@
 Board Information Report
 Filename     : C:\Users\XPENDER\Documents\GitHub\Mahmood-PTZKeyboard\Breakout_Board_(MCF8316A)\PCB_BOB.PcbDoc
 Date         : 10/23/2022
-Time         : 10:37:20 AM
+Time         : 6:13:40 PM
 Time Elapsed : 00:00:01
 
 General
@@ -10,24 +10,24 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 67.52%
+    Routing completion, 100.00%
     Connections, 117
-    Connections routed, 79
-    Connections remaining, 38
+    Connections routed, 117
+    Connections remaining, 0
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 81, 0, 91, 0, 5, 0, 0
-    Bottom Layer, 0, 65, 0, 126, 0, 9, 0, 0
+    Top Layer, 0, 79, 0, 179, 0, 14, 0, 0
+    Bottom Layer, 0, 67, 0, 227, 0, 10, 0, 0
     Draft and Dimensions, 0, 0, 0, 16, 2, 0, 0, 48
     Board Outline, 0, 0, 0, 4, 0, 0, 0, 0
     Fabrication, 0, 0, 0, 0, 0, 0, 0, 0
-    Multi-Layer, 0, 37, 42, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 37, 76, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 3, 0, 0, 172, 63, 3, 0, 0
+    Top Overlay, 3, 0, 0, 166, 61, 3, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
-    Bottom Overlay, 0, 0, 0, 3199, 71, 4, 0, 0
+    Bottom Overlay, 0, 0, 0, 3206, 73, 4, 0, 0
     Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
     Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
@@ -38,8 +38,8 @@ Drill Pairs, Vias
 count : 0
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 0.691, 445.606, 23%
-    Bottom Layer, 0.694, 447.889, 23%
+    Top Layer, 0.837, 540.079, 27%
+    Bottom Layer, 0.923, 595.803, 30%
 count : 2
 
 Non-Plated Hole Size, Pads, Vias
