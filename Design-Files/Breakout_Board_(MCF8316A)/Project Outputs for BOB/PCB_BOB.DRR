@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_BOB.PcbDoc   10/23/2022  6:46:21 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_BOB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             16        PTH        0.80inch (20.33mm)
+T2      12mil (0.3mm)                                             Round             60        PTH        10.30inch (261.66mm)
+T3      35mil (0.9mm)                                             Round             12        PTH        1.11inch (28.30mm)
+T4      51mil (1.3mm)                                             Round             6         PTH        1.65inch (42.00mm)
+T5      63mil (1.6mm)                                             Round             9         PTH        1.56inch (39.65mm)
+T6      79mil (2mm)                                               Round             4         PTH        5.31inch (134.98mm)
+T7      59mil (1.5mm)                                             Round             6         NPTH       1.71inch (43.35mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              113
+
+Total Processing Time (hh:mm:ss) : 00:00:00
