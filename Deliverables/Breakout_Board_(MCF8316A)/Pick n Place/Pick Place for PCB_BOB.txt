@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\XPENDER\Documents\GitHub\Mahmood-PTZKeyboard\Design-Files\Breakout_Board_(MCF8316A)\Project Outputs for BOB\Pick Place for PCB_BOB.txt
+C:\Users\LiberDB\Documents\GitHub\Mahmood-PTZKeyboard\Design-Files\Breakout_Board_(MCF8316A)\Project Outputs for BOB\Pick Place for PCB_BOB.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       23/10/22
-Time:       19:10
-Revision:   Not in VersionControl
+Date:       24/10/22
+Time:       19:50
+Revision:   9b93bab833a04be8c3346601e52c49cdc4ea5fde
 Variant:    No variations
 Units used: mm
 
