@@ -1,1 +1,2 @@
+Control=FAULT,SLEEP,RESET
 Motor_Control=IN1,EN1,IN2,EN2,IN3,EN3
