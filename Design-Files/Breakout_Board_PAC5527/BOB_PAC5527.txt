@@ -1,32 +1,32 @@
 Board Information Report
-Filename     : E:\Mahmood-PTZKeyboard\Design-Files\Breakout_Board_PAC5527\BOB_PAC5527.PcbDoc
-Date         : 2/2/2023
-Time         : 6:29:03 PM
+Filename     : C:\Users\LiberDB\Documents\GitHub\Mahmood-PTZKeyboard\Design-Files\Breakout_Board_PAC5527\BOB_PAC5527.PcbDoc
+Date         : 2/8/2023
+Time         : 10:30:30 PM
 Time Elapsed : 00:00:00
 
 General
-    Board Size, 1417.323milsx1574.803mils
+    Board Size, 1574.803milsx1574.803mils
     Components on board, 84
 count : 2
 
 Routing Information
-    Routing completion, 64.82%
+    Routing completion, 79.90%
     Connections, 199
-    Connections routed, 129
-    Connections remaining, 70
+    Connections routed, 159
+    Connections remaining, 40
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 200, 0, 340, 0, 58, 0, 0
-    Bottom Layer, 0, 48, 0, 116, 0, 21, 0, 0
-    Mechanical 1, 0, 0, 0, 2, 1, 0, 0, 69
-    Board Outline, 0, 0, 0, 4, 0, 0, 0, 0
-    Multi-Layer, 0, 24, 76, 0, 0, 0, 1, 0
+    Top Layer, 0, 202, 0, 359, 0, 69, 2, 0
+    Bottom Layer, 0, 46, 0, 162, 0, 22, 0, 0
+    Dimension, 0, 0, 0, 16, 3, 0, 0, 69
+    Board Outline, 0, 0, 0, 5, 0, 0, 0, 0
+    Multi-Layer, 0, 24, 124, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 5, 0, 0, 276, 107, 11, 0, 0
+    Top Overlay, 5, 0, 0, 280, 113, 11, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
-    Bottom Overlay, 4, 0, 0, 224, 76, 0, 0, 0
+    Bottom Overlay, 4, 0, 0, 220, 77, 0, 0, 0
     Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
     Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
@@ -35,3 +35,7 @@ count : 14
 
 Drill Pairs, Vias
 count : 0
+
+Non-Plated Hole Size, Pads, Vias
+    0mils, 0, 0
+count : 1
