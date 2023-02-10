@@ -1,7 +1,7 @@
 Board Information Report
 Filename     : C:\Users\XPENDER\Documents\GitHub\Mahmood-PTZKeyboard\Design-Files\Breakout_Board_PAC5527\BOB_PAC5527.PcbDoc
 Date         : 2/10/2023
-Time         : 1:29:30 AM
+Time         : 8:35:06 PM
 Time Elapsed : 00:00:00
 
 General
@@ -10,18 +10,18 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 96.98%
+    Routing completion, 100.00%
     Connections, 199
-    Connections routed, 193
-    Connections remaining, 6
+    Connections routed, 199
+    Connections remaining, 0
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 190, 0, 473, 0, 79, 2, 0
-    Bottom Layer, 1, 58, 0, 291, 0, 35, 2, 0
+    Top Layer, 0, 190, 0, 490, 0, 90, 2, 0
+    Bottom Layer, 2, 58, 0, 314, 0, 42, 2, 0
     Dimension, 0, 0, 0, 16, 3, 0, 0, 69
     Board Outline, 0, 0, 0, 5, 0, 0, 0, 0
-    Multi-Layer, 0, 24, 194, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 24, 240, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Top Overlay, 5, 0, 0, 253, 101, 11, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0

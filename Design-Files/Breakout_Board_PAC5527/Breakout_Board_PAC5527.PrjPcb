@@ -301,6 +301,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JSTJIEXE
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Breakout_Board_PAC5527\Design Rule Check - BOB_PAC5527.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
