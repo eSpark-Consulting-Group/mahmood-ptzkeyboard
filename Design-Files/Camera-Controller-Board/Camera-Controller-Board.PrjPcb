@@ -285,6 +285,23 @@ GenerateClassCluster=0
 DocumentUniqueId=HOBCRDPB
 
 [Document15]
+DocumentPath=RK3588-USB_HUB.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QBVYOBHA
+
+[Document16]
 DocumentPath=RK3588-LPDDR4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -301,7 +318,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVIKSQCS
 
-[Document16]
+[Document17]
 DocumentPath=RK3588-EMMC-Flash-TF-Card.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -318,7 +335,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZHPJTBY
 
-[Document17]
+[Document18]
 DocumentPath=RK3588-HDMI-Connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -335,7 +352,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PJALMXAW
 
-[Document18]
+[Document19]
 DocumentPath=RK3588-eDP-Keys-Debug.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -352,7 +369,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SNANCYXE
 
-[Document19]
+[Document20]
 DocumentPath=WiFi-Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -368,6 +385,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZJJTXLBY
+
+[Document21]
+DocumentPath=ESP32-Sheet.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SZFSAGSQ
 
 [Configuration1]
 Name=Sources
